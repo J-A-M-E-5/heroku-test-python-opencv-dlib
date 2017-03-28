@@ -1,7 +1,4 @@
 # README #
-<<<<<<< HEAD
-todo
-=======
 
 ## Heroku Deployment Instructions ##
 
@@ -54,4 +51,3 @@ $ git push heroku master
 ```
 
 Now you should be able to visit your instance in your browser.
->>>>>>> 67d2491c9c2b9214fb276c8796859143f3c71444
